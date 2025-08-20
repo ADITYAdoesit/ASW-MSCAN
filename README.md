@@ -31,7 +31,7 @@ Do not use it on real systems without proper isolation (VMs, sandboxes).
 
 Clone the repository:
 
-git clone https://github.com/your-username/asw_mscan.git
+git clone https://github.com/ADITYAdoesit/asw_mscan.git
 cd asw_mscan
 
 Run The Script:
